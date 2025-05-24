@@ -11,7 +11,7 @@ Este proyecto realiza un análisis exploratorio del conjunto de datos de jugador
 
 - `fifa_eda.csv` : Conjunto de datos de jugadores FIFA 19.  
 - `fifa_analysis.ipynb` : Cuaderno Jupyter con todo el proceso de limpieza, transformación y visualización.  
-- `README.md` : Este documento.  
+- `README.md` : Este documento.
 
 ---
 
